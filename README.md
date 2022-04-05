@@ -1,5 +1,5 @@
 
-<img src="./img/carbon.svg">
+<img src="./img/carbon.png">
 
 
 <h2 align="center">I'm Jaime, a Junior full-stack developer still learning, from Seville, Spain
