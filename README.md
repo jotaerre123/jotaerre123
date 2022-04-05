@@ -23,7 +23,7 @@
 
 ---
 
-## Languages BackEnd 🛠
+## BackEnd 🛠
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,7 +31,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-## Tools 🛠
+## Tools 🔧
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -39,7 +39,7 @@
 ![amazon](https://img.shields.io/badge/amazon%20web%20Services-%23ED8B00?style=for-the-badge&logo=amazon&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%231572B6?style=for-the-badge&logo=docker&logoColor=white)
 ---
-## Languages FrontEnd 🎨
+## FrontEnd 🎨
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
